@@ -1,0 +1,1 @@
+include ':SpeechDemo2', ':voicedialog', ':vitamio', ':xutils', ':app_my', ':vitamio-sample', ':MaterialRefreshLayout_library', ':jcvideoplayer_lib', ':PhotoView_library'

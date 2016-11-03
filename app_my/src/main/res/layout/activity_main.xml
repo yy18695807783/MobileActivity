@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.MainActivity">
+
+    <!-- 标题搜索框 -->
+    <include layout="@layout/titelbar" />
+
+    <!-- fragment -->
+    <FrameLayout
+        android:id="@+id/fl_main_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+    <!-- RadioGroup -->
+    <RadioGroup
+        android:id="@+id/rg_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#11000000"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <RadioButton
+            android:id="@+id/rb_video"
+            style="@style/button_rb_style"
+            android:drawableTop="@drawable/ic_tab_video_draw"
+            android:text="本地视频" />
+
+        <RadioButton
+            android:id="@+id/rb_audio"
+            style="@style/button_rb_style"
+            android:drawableTop="@drawable/ic_tab_audio_draw"
+            android:text="本地音频" />
+
+        <RadioButton
+            android:id="@+id/rb_netvideo"
+            style="@style/button_rb_style"
+            android:drawableTop="@drawable/ic_tab_netvideo_draw"
+            android:text="网络视频" />
+
+        <RadioButton
+            android:id="@+id/rb_netaudio"
+            style="@style/button_rb_style"
+            android:drawableTop="@drawable/ic_tab_netaudio_draw"
+            android:text="网络音频" />
+
+        <RadioButton
+            android:id="@+id/rb_recycler"
+            style="@style/button_rb_style"
+            android:drawableTop="@drawable/ic_tab_netaudio_draw"
+            android:text="Recyclerview" />
+
+    </RadioGroup>
+
+
+</LinearLayout>

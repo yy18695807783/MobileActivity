@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MaterialRefreshLayout_library/MaterialRefreshLayout_library.iml" filepath="$PROJECT_DIR$/MaterialRefreshLayout_library/MaterialRefreshLayout_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MobileActivity2.iml" filepath="$PROJECT_DIR$/MobileActivity2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoView_library/PhotoView_library.iml" filepath="$PROJECT_DIR$/PhotoView_library/PhotoView_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeechDemo2/SpeechDemo2.iml" filepath="$PROJECT_DIR$/SpeechDemo2/SpeechDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_my/app_my.iml" filepath="$PROJECT_DIR$/app_my/app_my.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jcvideoplayer_lib/jcvideoplayer_lib.iml" filepath="$PROJECT_DIR$/jcvideoplayer_lib/jcvideoplayer_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/vitamio/vitamio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio-sample/vitamio-sample.iml" filepath="$PROJECT_DIR$/vitamio-sample/vitamio-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/voicedialog/voicedialog.iml" filepath="$PROJECT_DIR$/voicedialog/voicedialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils/xutils.iml" filepath="$PROJECT_DIR$/xutils/xutils.iml" />
+    </modules>
+  </component>
+</project>
